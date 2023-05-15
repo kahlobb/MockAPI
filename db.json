@@ -1,34 +1,35 @@
 {
-  "contacts": [
-    {
-      "id": "1",
-      "name": "John Doe",
-      "phone": 2315490922,
-      "email": "john@gmail.com"
-    },
-    {
+    "contacts": [
+      {
+        "id": "1",
+        "name": "John Doe",
+        "phone": "2315490922",
+        "email": "john@gmail.com"
+      },
+      {
         "id": "2",
         "name": "Mark Williams",
-        "phone": 2246579423,
+        "phone": "2246579423",
         "email": "mark@gmail.com"
-    },
-    {
+      },
+      {
         "id": "3",
         "name": "Sara Thompson",
-        "phone": 2315490922,
+        "phone": "2315490922",
         "email": "sara@gmail.com"
-    },
-    {
+      },
+      {
         "id": "4",
         "name": "Karen Jackson",
-        "phone": 2246439655,
+        "phone": "2246439655",
         "email": "karen@gmail.com"
-    },
-    {
+      },
+      {
         "id": "5",
         "name": "Kaitlin Lobb",
-        "phone": 2320894637,
+        "phone": "2320894637",
         "email": "kait@gmail.com"
-    }
-  ]
-}
+      }
+    ]
+  }
+  
